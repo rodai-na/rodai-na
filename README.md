@@ -37,5 +37,5 @@ I'm looking for a 6-month internship in quantitative research or financial model
 
 ## Contact
 
-- Email: [ton email]
-- LinkedIn: [ton lien]
+- Email: rodainaboussaid@gmail.com
+- LinkedIn: www.linkedin.com/in/rodaina-boussaid-benchaara
