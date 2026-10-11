@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Rodaina [Nom de famille]
+# Rodaina Boussaid Benchaara
 
 Master's student in Financial Engineering and Stochastic Processes, looking for a 6-month quantitative finance internship starting April 2027.
 
