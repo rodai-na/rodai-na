@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m passionate about mathematics and its applications to financial markets, particularly quantitative research and financial modeling. I enjoy tackling challenging problems and exploring how mathematical theory can be translated into practical solutions.
+
+I’m currently looking for a 6-month internship starting in April 2027 in quantitative finance, where I can apply my mathematical background, strengthen my programming skills, and learn from real-world financial challenges.
