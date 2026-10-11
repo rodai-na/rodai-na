@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rodai-na/rodai-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,7 @@ Master's student in Financial Engineering and Stochastic Processes, looking for 
 
 ## About me
 
-I hold a degree in Mathematics Bachelor's degree and I'm currently pursuing a Master's degree in Financial Engineering and Stochastic Processes at Sorbonne Université.
+I hold a Bachelor's degree in Mathematics and I'm currently pursuing a Master's degree in Financial Engineering and Stochastic Processes at Sorbonne Université.
 
 I'm interested in how mathematics can model real-world phenomena, and in particular how it can be used to quantify risk and uncertainty in global financial markets. I enjoy tackling challenging problems and turning mathematical theory into practical solutions.
 
@@ -37,5 +35,4 @@ I'm looking for a 6-month internship in quantitative research or financial model
 
 ## Contact
 
-- Email: rodainaboussaid@gmail.com
-- LinkedIn: www.linkedin.com/in/rodaina-boussaid-benchaara
+- LinkedIn: https://www.linkedin.com/in/rodaina-boussaid-benchaara
